@@ -1,0 +1,4 @@
+deepgram-sdk
+python-dotenv
+python-magic
+requests
