@@ -55,6 +55,8 @@
 pip install git+https://github.com/skyme5/deepgram-cli.git
 ```
 
+Also set your `DEEPGRAM_API_KEY` for it to work.
+
 ## Usage
 
 ```bash
