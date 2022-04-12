@@ -3,12 +3,9 @@ import sys
 from ast import dump
 
 from deepgram import Deepgram
-from dotenv import load_dotenv
 
 from deepgram_cli.cli import parse_arguments
 from deepgram_cli.deepgram_cli import DeepgramCLI
-
-load_dotenv()
 
 
 def main():
